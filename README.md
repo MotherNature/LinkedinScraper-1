@@ -1,6 +1,6 @@
 # <h1>LinkedinScraper</h1>
-<h2>By Weston Jackson
-westonjackson2106@gmail.com</h2>
+<p>By Weston Jackson</p>
+<p>westonjackson2106@gmail.com</p>
 
 LinkedinScraper allows a user to input candidate key words and receive an excel sheet of candidates, linkedin profiles, and current job titles. It bypases the Linkedin security measures by searching through google, and bypasses google security measures by making requests at random intervals between 1-15 seconds. When using the GUI, a user can also specify the number of pages of Google to search for candidates.
 
