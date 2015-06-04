@@ -6,15 +6,10 @@ LinkedinScraper allows a user to input candidate key words and receive an excel 
 
 
 Required External Libraries:
-
 htmlunit-2.16
-
 selenium-2.45.0
 
 Classes:
-
 ScraperGUI.java - UI for the Linkedin scraper, contains the main method. Has subclass for the actionlistener submit button.
-
 Scraper.java - Contains the bulk of the program, parses through google search results to get linkedin profiles of candidates.
-
 Candidate.java - Candidate object contains name, url, and job.
